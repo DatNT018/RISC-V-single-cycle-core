@@ -6,7 +6,7 @@ This Repo is my final project for Computer Architecture that describe a Single C
 
 ## RISC-V reference
 
-- Textbook:\ `Digital Design and Computer Architecture: RISC-V Edition by Sarah L. Harris and David Harris` 
+- Textbook: `Digital Design and Computer Architecture: RISC-V Edition by Sarah L. Harris and David Harris` 
 - [RISC-V Reference Manual](https://github.com/riscv/riscv-isa-manual/releases/download/Ratified-IMAFDQC/riscv-spec-20191213.pdf).
   
 
