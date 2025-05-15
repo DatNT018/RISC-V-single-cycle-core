@@ -14,11 +14,6 @@ This Repo is my final project for Computer Architecture that describe a Single C
 This project will implement on the __Altera Board__.
 
 
-## Top module and RiscV module
-
-The top module is _RiscVTop.sv_, which includes the wiring to the slow clock, the 7-segments displays and some leds. The cpu itself is the _RiscV.sv_ module which also includes the Instruction Memory and the Data Memory.
-
-
 ## What's Next?
 This project serves as the foundation for a complete, FPGA-based embedded systems with RISC-V SoC, Planned features include:
 
