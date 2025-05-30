@@ -19,8 +19,6 @@ This project serves as the foundation for a complete, FPGA-based embedded system
 
 - Extending the core to support a 5-stage pipelined.
 - Designing an FPGA-optimized microarchitecture.
-- Adding support for a FreeRTOS-compatible interrupt system.
-- Connecting components through standard bus interfaces such as AXI and system peripheral buses.
-- Developing a UVM-verification suites to ensure functionality and correctness.
+- Connecting components through standard bus interfaces such as system peripheral buses.
 
 The full RISC-V SoC project will be released publicly during the summer of this year.
