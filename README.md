@@ -1,6 +1,6 @@
-# RISC-V Single Cycle Processor
+# RISC-V Processor
 
-This Repo is my final project for Computer Architecture that describe a Single Cycle processor running the RV32I implementation written in __Verilog__.
+This Repo is my final project for Digital System Design Lab that describe a 5 stage pipelined processor running the RV32I implementation written in __Verilog__.
 
 
 
