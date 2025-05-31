@@ -16,9 +16,7 @@ This project will implement on the __Altera Board__.
 
 ## What's Next?
 This project serves as the foundation for a complete, FPGA-based embedded systems with RISC-V SoC, Planned features include:
-
-- Extending the core to support a 5-stage pipelined.
-- Designing an FPGA-optimized microarchitecture.
-- Connecting components through standard bus interfaces such as system peripheral buses.
-
-The full RISC-V SoC project will be released publicly during the summer of this year.
+- Connecting components through standard bus interfaces such as UARTX and SPI.
+- Implementing RTOS.
+  
+This updating RISC-V project will be released publicly during the summer of this year.
