@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri May 30 16:14:47 2025
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : RISC_FPGA
+Top-level Entity Name : RISC_FPGA
+Family : Cyclone IV E
+Total logic elements : 6,569
+    Total combinational functions : 3,762
+    Dedicated logic registers : 3,269
+Total registers : 3269
+Total pins : 98
+Total virtual pins : 0
+Total memory bits : 90
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

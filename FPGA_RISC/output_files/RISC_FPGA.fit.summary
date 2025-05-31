@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri May 30 16:15:17 2025
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : RISC_FPGA
+Top-level Entity Name : RISC_FPGA
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 5,066 / 114,480 ( 4 % )
+    Total combinational functions : 3,766 / 114,480 ( 3 % )
+    Dedicated logic registers : 3,269 / 114,480 ( 3 % )
+Total registers : 3269
+Total pins : 98 / 529 ( 19 % )
+Total virtual pins : 0
+Total memory bits : 90 / 3,981,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
